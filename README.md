@@ -125,7 +125,7 @@ ClassPing/
 ### 1. Clone the repository
 
 ```bash
-git clone [<repository-url>](https://github.com/akash-kanar/classping)
+git clone https://github.com/akash-kanar/classping
 cd ClassPing
 ```
 
